@@ -1,1 +1,1 @@
-'window.mora'
+<p>chán luôn</p></>
