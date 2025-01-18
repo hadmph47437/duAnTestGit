@@ -1,1 +1,1 @@
-'window.mora'
+"okelaokela"
